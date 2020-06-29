@@ -35,7 +35,7 @@ class FileEditor {
         // Display the content of arraylist
         display();
         
-        System.out.println("Modifying record (type /add, /edit, or /delete):");
+        System.out.println("Modifying record (type /add, /edit, /delete, or /exit):");
         
         in = new Scanner(System.in);
         
